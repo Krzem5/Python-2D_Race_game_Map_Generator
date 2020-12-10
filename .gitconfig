@@ -5,7 +5,6 @@ desc=Python-2D_Race_game_Map_Generator
 public=true
 homepage=
 license=mit
-remote=
 
 file.readme=.\README.md
 file.gitignore=.\.gitignore
